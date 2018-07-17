@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Cyci25] (https://github.com/Cyci25)
+- [Cyci25](https://github.com/Cyci25)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
